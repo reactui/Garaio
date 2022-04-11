@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Zp3ezrEyVtRupVLC8/lwrCH1IjMmBn9rj/8OYrPvgBX8eJRU7ye6UxRKIiUOi2MKttro+j/Z920CO2WsiTQdw==",
+  "success": true,
+  "projectFilePath": "C:\\work\\Garaio.IISParser\\Garaio.IISParser.UI\\Garaio.IISParser.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\savoy\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
